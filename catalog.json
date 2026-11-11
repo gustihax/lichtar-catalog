@@ -41,6 +41,7 @@
       "hue": 25,
       "steam_appid": 1587130,
       "exe": [
+        "Blood West.exe",
         "BloodWest.exe"
       ],
       "folders": [
@@ -51,7 +52,17 @@
       "size": "2007376",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/blood-west-v1.0/BW.zip",
       "sha256": "9ae8722fb64183daf787013de8d5d250de8fd228661f5873ae283a15dad95373",
-      "log": []
+      "log": [
+        {
+          "v": "1.0",
+          "d": "28 липня 2026",
+          "i": [
+            ["new", "Повний текстовий переклад основної гри та всіх випущених DLC"],
+            ["new", "Локалізовано інтерфейс, діалоги, записки, бестіарій та описи предметів"],
+            ["new", "Додано підтримку локалізованих досягнень Steam"]
+          ]
+        }
+      ]
     },
     {
       "id": "deaths-door",
@@ -66,11 +77,35 @@
         "Deaths Door",
         "DeathsDoor"
       ],
-      "version": "2.1",
+      "version": "2.1.1",
       "size": "210282665",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/deaths-door-v2.1/Death.s.Door.2.1.zip",
       "sha256": "9f25e59ec1e1eb80f7de1f7f8ba1b6e959c13c18eb8cce61ca9bfb5e3bf64838",
-      "log": []
+      "log": [
+        {
+          "v": "2.1.1",
+          "d": "29 вересня 2025",
+          "i": [
+            ["fix", "Технічні фікси та незначні виправлення зауважень у тексті"]
+          ]
+        },
+        {
+          "v": "2.1",
+          "d": "22 вересня 2025",
+          "i": [
+            ["fix", "Покращено шрифти та відображення екрана смерті й імен босів"],
+            ["fix", "Масштабна вичитка й редагування тексту по всій грі"]
+          ]
+        },
+        {
+          "v": "2.0",
+          "d": "19 серпня 2025",
+          "i": [
+            ["new", "Довезено 100% перекладу внутрішньоігрового тексту"],
+            ["new", "Адаптовано оригінальні шрифти та опціональні досягнення Steam"]
+          ]
+        }
+      ]
     },
     {
       "id": "windbound",
@@ -88,7 +123,16 @@
       "size": "19401277",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/windbound-v1.1/Windbound.1.1.zip",
       "sha256": "3ed178eaf245a9a5cda955e6244e431ee6feb869df5cd2013f016abdd01eb99f",
-      "log": []
+      "log": [
+        {
+          "v": "1.1",
+          "d": "14 жовтня 2025",
+          "i": [
+            ["new", "100% текстовий українізатор (замінює польську мову)"],
+            ["new", "Адаптовано шрифти та локалізовано всі досягнення"]
+          ]
+        }
+      ]
     },
     {
       "id": "itorah",
@@ -107,7 +151,16 @@
       "size": "94436736",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/itorah-v1.0/ITORAH.zip",
       "sha256": "f24aff91756d5d298019eeeccca88cdd79eeae949b6cc84e10457b37dca2b655",
-      "log": []
+      "log": [
+        {
+          "v": "1.0",
+          "d": "20 вересня 2025",
+          "i": [
+            ["new", "Повний переклад тексту гри та шрифтів з англійської мови"],
+            ["new", "Додано підтримку українізованих досягнень Steam (UserGameStatsSchema)"]
+          ]
+        }
+      ]
     },
     {
       "id": "turbo-kid",
@@ -127,7 +180,15 @@
       "size": "2810870",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/turbo-kid-v1.0/Turbo.Kid.zip",
       "sha256": "0da8b96ee9732123bc9104bdec1acf79e26ca2078a50464b757d51fb46447730",
-      "log": []
+      "log": [
+        {
+          "v": "1.0",
+          "d": "30 вересня 2025",
+          "i": [
+            ["new", "Перший випуск українського патча текстової локалізації"]
+          ]
+        }
+      ]
     },
     {
       "id": "lost-ruins",
@@ -146,7 +207,16 @@
       "size": "439119",
       "url": "https://github.com/gustihax/lichtar-catalog/releases/download/lost-ruins-v1.0/Lost.Ruins.zip",
       "sha256": "f30ad69995246757891ddbd3e0e078b6024800d5dee9a7b1d83a5707b95dbc60",
-      "log": []
+      "log": [
+        {
+          "v": "1.0",
+          "d": "22 вересня 2025",
+          "i": [
+            ["new", "100% текстова локалізація"],
+            ["new", "Повний переклад предметів, меню та розмов із персонажами"]
+          ]
+        }
+      ]
     }
   ]
 }
