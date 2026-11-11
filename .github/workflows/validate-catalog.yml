@@ -1,0 +1,24 @@
+name: Перевірка каталогу
+
+on:
+  push:
+    paths: ["catalog.json", "tools/validate_catalog.py"]
+  pull_request:
+    paths: ["catalog.json", "tools/validate_catalog.py"]
+  workflow_dispatch:
+    inputs:
+      online:
+        description: "Завантажити архіви й звірити SHA256 (повільно)"
+        type: boolean
+        default: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Перевірити структуру
+        run: python3 tools/validate_catalog.py catalog.json
+      - name: Перевірити архіви онлайн
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.online }}
+        run: python3 tools/validate_catalog.py catalog.json --release --online

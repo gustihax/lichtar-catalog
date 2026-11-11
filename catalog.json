@@ -1,0 +1,116 @@
+{
+  "news": [
+    {
+      "d": "Серпень 2026",
+      "ts": "2026-08-18",
+      "tag": "Tribuna",
+      "t": "У Steam стартував Ukrainian Games Festival 2026",
+      "x": "Фестиваль українських розробників тривав до 24 серпня, уперше з показом трейлерів UGF Direct.",
+      "u": "https://ua.tribuna.com/uk/amp/cybersport/1000000368911-u-steam-rozpochavsya-ukrainian-games-festival-2026/"
+    },
+    {
+      "d": "12 липня",
+      "ts": "2026-07-12",
+      "tag": "Таємна кімната",
+      "t": "Для Crimson Desert вийшов повний українізатор",
+      "x": "Понад 172 тисячі рядків. Переклад вмикається через слот польської мови, англійський текст лишається на місці. Лежить на Nexus Mods.",
+      "u": "https://tayemnakimnata.com/dlya-crimson-desert-na-pc-vyjshov-povnoczinnyj-ukrayinizator/"
+    },
+    {
+      "d": "Червень 2026",
+      "ts": "2026-06-08",
+      "tag": "УНІАН",
+      "t": "П’ять ігор з українською, що вийдуть у другій половині 2026 року",
+      "x": "У добірці Control Resonant, Valor Mortis і Resonance: A Plague Tale Legacy.",
+      "u": "https://www.unian.ua/techno/games/igri-z-ukrajinskim-perekladom-top-5-golovnih-novih-igor-lita-oseni-2026-roku-13406091.html"
+    },
+    {
+      "d": "9 квітня",
+      "ts": "2026-04-09",
+      "tag": "УНІАН",
+      "t": "Control Resonant отримає офіційну українську локалізацію",
+      "x": "Українська буде в інтерфейсі та субтитрах, без озвучення.",
+      "u": "https://www.unian.ua/techno/games/control-resonant-data-vihodu-u-gri-bude-ukrajinska-lokalizaciya-13343853.html"
+    }
+  ],
+  "games": [
+    {
+      "id": "blood-west",
+      "name": "Blood West",
+      "studio": "Hyperstrange",
+      "hue": 25,
+      "steam_appid": 1587130,
+      "exe": [
+        "BloodWest.exe"
+      ],
+      "folders": [
+        "Blood West",
+        "BloodWest"
+      ],
+      "version": "",
+      "size": "",
+      "url": "",
+      "sha256": "",
+      "log": [],
+      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+    },
+    {
+      "id": "gunbrella",
+      "name": "Gunbrella",
+      "studio": "Doinksoft",
+      "hue": 178,
+      "steam_appid": 1580180,
+      "exe": [
+        "Gunbrella.exe"
+      ],
+      "folders": [
+        "Gunbrella"
+      ],
+      "version": "",
+      "size": "",
+      "url": "",
+      "sha256": "",
+      "log": [],
+      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+    },
+    {
+      "id": "gunfire",
+      "name": "Gunfire Reborn",
+      "studio": "Duoyi",
+      "hue": 75,
+      "steam_appid": 1217060,
+      "exe": [
+        "Gunfire Reborn.exe"
+      ],
+      "folders": [
+        "Gunfire Reborn"
+      ],
+      "version": "",
+      "size": "",
+      "url": "",
+      "sha256": "",
+      "log": [],
+      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+    },
+    {
+      "id": "watch-dogs",
+      "name": "Watch Dogs",
+      "studio": "Ubisoft",
+      "hue": 255,
+      "steam_appid": 243470,
+      "exe": [
+        "Watch_Dogs.exe"
+      ],
+      "folders": [
+        "Watch_Dogs",
+        "Watch Dogs"
+      ],
+      "version": "",
+      "size": "",
+      "url": "",
+      "sha256": "",
+      "log": [],
+      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+    }
+  ]
+}
