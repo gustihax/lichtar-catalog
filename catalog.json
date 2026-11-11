@@ -34,6 +34,34 @@
     }
   ],
   "games": [
+	{
+      "id": "gunbrella",
+      "name": "Gunbrella",
+      "studio": "Doinksoft",
+      "hue": 45,
+      "steam_appid": 1589180,
+      "badge": "Новинка",
+      "translationProgress": 10,
+      "exe": [
+        "Gunbrella.exe"
+      ],
+      "folders": [
+        "Gunbrella"
+      ],
+      "version": "0.1",
+      "size": "0",
+      "url": "",
+      "sha256": "",
+      "log": [
+        {
+          "v": "0.1",
+          "d": "25 жовтня 2026",
+          "i": [
+            ["new", "Розпочато роботу над локалізацією проєкту"],
+          ]
+        }
+      ]
+    },
     {
       "id": "blood-west",
       "name": "Blood West",
