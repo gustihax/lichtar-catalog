@@ -47,70 +47,106 @@
         "Blood West",
         "BloodWest"
       ],
-      "version": "",
-      "size": "",
-      "url": "",
-      "sha256": "",
-      "log": [],
-      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+      "version": "1.0",
+      "size": "2007376",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/blood-west-v1.0/BW.zip",
+      "sha256": "9ae8722fb64183daf787013de8d5d250de8fd228661f5873ae283a15dad95373",
+      "log": []
     },
     {
-      "id": "gunbrella",
-      "name": "Gunbrella",
-      "studio": "Doinksoft",
-      "hue": 178,
-      "steam_appid": 1580180,
+      "id": "deaths-door",
+      "name": "Death's Door",
+      "studio": "Acid Nerve",
+      "hue": 200,
+      "steam_appid": 894020,
       "exe": [
-        "Gunbrella.exe"
+        "DeathsDoor.exe"
       ],
       "folders": [
-        "Gunbrella"
+        "Deaths Door",
+        "DeathsDoor"
       ],
-      "version": "",
-      "size": "",
-      "url": "",
-      "sha256": "",
-      "log": [],
-      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+      "version": "2.1",
+      "size": "210282665",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/deaths-door-v2.1/Death.s.Door.2.1.zip",
+      "sha256": "9f25e59ec1e1eb80f7de1f7f8ba1b6e959c13c18eb8cce61ca9bfb5e3bf64838",
+      "log": []
     },
     {
-      "id": "gunfire",
-      "name": "Gunfire Reborn",
-      "studio": "Duoyi",
-      "hue": 75,
-      "steam_appid": 1217060,
+      "id": "windbound",
+      "name": "Windbound",
+      "studio": "554 Software",
+      "hue": 190,
+      "steam_appid": 1162130,
       "exe": [
-        "Gunfire Reborn.exe"
+        "Windbound.exe"
       ],
       "folders": [
-        "Gunfire Reborn"
+        "Windbound"
       ],
-      "version": "",
-      "size": "",
-      "url": "",
-      "sha256": "",
-      "log": [],
-      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+      "version": "1.1",
+      "size": "19401277",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/windbound-v1.1/Windbound.1.1.zip",
+      "sha256": "3ed178eaf245a9a5cda955e6244e431ee6feb869df5cd2013f016abdd01eb99f",
+      "log": []
     },
     {
-      "id": "watch-dogs",
-      "name": "Watch Dogs",
-      "studio": "Ubisoft",
-      "hue": 255,
-      "steam_appid": 243470,
+      "id": "itorah",
+      "name": "ITORAH",
+      "studio": "Grimbart Tales",
+      "hue": 35,
+      "steam_appid": 1132910,
       "exe": [
-        "Watch_Dogs.exe"
+        "Itorah.exe"
       ],
       "folders": [
-        "Watch_Dogs",
-        "Watch Dogs"
+        "ITORAH",
+        "Itorah"
       ],
-      "version": "",
-      "size": "",
-      "url": "",
-      "sha256": "",
-      "log": [],
-      "_note": "exe і назву теки не перевірено: запустіть tools/inspect_game.py на встановленій грі"
+      "version": "1.0",
+      "size": "94436736",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/itorah-v1.0/ITORAH.zip",
+      "sha256": "f24aff91756d5d298019eeeccca88cdd79eeae949b6cc84e10457b37dca2b655",
+      "log": []
+    },
+    {
+      "id": "turbo-kid",
+      "name": "Turbo Kid",
+      "studio": "Outerminds Inc.",
+      "hue": 340,
+      "steam_appid": 1733250,
+      "exe": [
+        "Turbo Kid.exe",
+        "TurboKid.exe"
+      ],
+      "folders": [
+        "Turbo Kid",
+        "TurboKid"
+      ],
+      "version": "1.0",
+      "size": "2810870",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/turbo-kid-v1.0/Turbo.Kid.zip",
+      "sha256": "0da8b96ee9732123bc9104bdec1acf79e26ca2078a50464b757d51fb46447730",
+      "log": []
+    },
+    {
+      "id": "lost-ruins",
+      "name": "Lost Ruins",
+      "studio": "ALTARI GAMES",
+      "hue": 280,
+      "steam_appid": 1306630,
+      "exe": [
+        "LostRuins.exe"
+      ],
+      "folders": [
+        "Lost Ruins",
+        "LostRuins"
+      ],
+      "version": "1.0",
+      "size": "439119",
+      "url": "https://github.com/gustihax/lichtar-catalog/releases/download/lost-ruins-v1.0/Lost.Ruins.zip",
+      "sha256": "f30ad69995246757891ddbd3e0e078b6024800d5dee9a7b1d83a5707b95dbc60",
+      "log": []
     }
   ]
 }
